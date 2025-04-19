@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|solutionrelative:MaltConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|solutionrelative:MaltConsole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\OSMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|solutionrelative:OSMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MultiBootInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E486F0D-3C0C-4838-85E6-26A1041B13F5}|MALTOS.vcxproj|solutionrelative:MultiBootInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\co895\\Desktop\\SkyOS\\SkyOS\\Chapter\\Debug\\SkyOS32.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiBootInfo.h",
+              "DocumentMoniker": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MultiBootInfo.h",
+              "RelativeDocumentMoniker": "MultiBootInfo.h",
+              "ToolTip": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MultiBootInfo.h",
+              "RelativeToolTip": "MultiBootInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T06:14:54.278Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OSMain.cpp",
+              "DocumentMoniker": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\OSMain.cpp",
+              "RelativeDocumentMoniker": "OSMain.cpp",
+              "ToolTip": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\OSMain.cpp",
+              "RelativeToolTip": "OSMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T08:31:32.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaltConsole.h",
+              "DocumentMoniker": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.h",
+              "RelativeDocumentMoniker": "MaltConsole.h",
+              "ToolTip": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.h",
+              "RelativeToolTip": "MaltConsole.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T13:20:14.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaltConsole.cpp",
+              "DocumentMoniker": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.cpp",
+              "RelativeDocumentMoniker": "MaltConsole.cpp",
+              "ToolTip": "C:\\Users\\co895\\Desktop\\MALTOS\\MALTOS\\MaltConsole.cpp",
+              "RelativeToolTip": "MaltConsole.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T13:20:08.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkyOS32.map",
+              "DocumentMoniker": "C:\\Users\\co895\\Desktop\\SkyOS\\SkyOS\\Chapter\\Debug\\SkyOS32.map",
+              "RelativeDocumentMoniker": "..\\..\\SkyOS\\SkyOS\\Chapter\\Debug\\SkyOS32.map",
+              "ToolTip": "C:\\Users\\co895\\Desktop\\SkyOS\\SkyOS\\Chapter\\Debug\\SkyOS32.map",
+              "RelativeToolTip": "..\\..\\SkyOS\\SkyOS\\Chapter\\Debug\\SkyOS32.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T12:09:05.176Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
